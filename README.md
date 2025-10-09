@@ -33,7 +33,7 @@
 
 
 
-## 📫 Contact Me
+## Contact Me
 - LinkedIn: www.linkedin.com/in/wajdalrabiah(link)  
 - Email: WajdAlrabiah.email@example.com  
 
