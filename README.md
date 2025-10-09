@@ -1,8 +1,9 @@
 # Hi there, I'm Wajd Alrabiah
 
 ## About Me
-- Senior AI student at Princess Nourah University  
+- AI graduate from Princess Nourah University  
 - Passionate about **Machine Learning, NLP, and Data Mining**  
+- Interested in **AI applications, Human-Computer Interaction, and Intelligent Systems**
 
 
 ## Skills & Tools
