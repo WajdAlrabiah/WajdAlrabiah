@@ -36,4 +36,5 @@
 
 ## Contact Me
 - LinkedIn: www.linkedin.com/in/wajdalrabiah
+- X (Twitter): https://x.com/wajdalrabiah
 - Email: WajdAlrabiah@gmail.com
