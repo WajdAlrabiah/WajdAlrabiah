@@ -1,21 +1,21 @@
-# <p align="center">Hi there, I'm Wajd Alrabiah 👋</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20Engineer%20&%20Full-Stack%20Dev&fontSize=40&animation=fadeIn" />
+# <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F5F5DC&height=150&section=header&text=Wajd%20Alrabiah&fontSize=50&fontColor=003366&animation=fadeIn" />
 </p>
 
-## 💫 About Me
-- 🎓 **Artificial Intelligence** fresh graduate from Princess Nourah Bint Abdulrahman University.
-- 🤖 Passionate about **Machine Learning, Deep Learning, Generative AI, and NLP**.
-- 💻 Skilled in building end-to-end applications using **NestJS, Angular, and FastAPI**.
-- 📊 Expert in **Data Analytics, Visualization, and Data Quality**.
-- 🚀 Interested in **Adaptive AI Systems** and **Semantic Search Engines**.
+## <img src="https://img.shields.io/badge/-About%20Me-003366?style=flat&labelColor=F5F5DC" height="30">
+<p align="left">
+  <font color="#003366">
+    - 🎓 <b>Artificial Intelligence</b> fresh graduate from Princess Nourah Bint Abdulrahman University.<br>
+    - 🤖 Passionate about <b>Machine Learning, Deep Learning, Generative AI, and NLP</b>.<br>
+    - 💻 Skilled in building end-to-end applications using <b>NestJS, Angular, and FastAPI</b>.<br>
+  </font>
+</p>
 
 ---
 
-## 🛠 Skills & Tools
+## <img src="https://img.shields.io/badge/-Technical%20Skills-003366?style=flat&labelColor=F5F5DC" height="30">
 
-### 🤖 AI Engineering & Data Science
+### 🤖 <font color="#003366">AI Engineering & Data Science</font>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45"/>&nbsp;
@@ -25,52 +25,32 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_lucene/apache_lucene-icon.svg" title="Apache Lucene" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" width="45" height="45"/>&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Microsoft Excel" width="45" height="45"/>
 </p>
 
-### 🌐 Full-Stack Development & Databases
+### 🌐 <font color="#003366">Full-Stack Development</font>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>
-</p>
-
-### 🛠 Tools & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" title="Anaconda" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="45" height="45"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.shields.io/badge/-GitHub%20Stats-003366?style=flat&labelColor=F5F5DC" height="30">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajdalrabiah&show_icons=true&theme=vision-glow&hide_border=true" alt="Wajd's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajdalrabiah&layout=compact&theme=vision-glow&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wajdalrabiah&show_icons=true&theme=solarized-light&bg_color=F5F5DC&title_color=003366&text_color=003366&icon_color=003366&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajdalrabiah&layout=compact&theme=solarized-light&bg_color=F5F5DC&title_color=003366&text_color=003366&hide_border=true" width="300" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## <img src="https://img.shields.io/badge/-Connect%20With%20Me-003366?style=flat&labelColor=F5F5DC" height="30">
 <p align="center">
-  <a href="https://linkedin.com/in/wajdalrabiah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/wajdalrabiah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:WajdAlrabiah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/wajdalrabiah"><img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=F5F5DC" /></a>
+  <a href="https://x.com/wajdalrabiah"><img src="https://img.shields.io/badge/Twitter-003366?style=for-the-badge&logo=twitter&logoColor=F5F5DC" /></a>
+  <a href="mailto:WajdAlrabiah@gmail.com"><img src="https://img.shields.io/badge/Email-003366?style=for-the-badge&logo=gmail&logoColor=F5F5DC" /></a>
 </p>
