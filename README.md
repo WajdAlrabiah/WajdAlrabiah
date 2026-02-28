@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Gil-Gomes/Gil-Gomes/master/assets/huggingface.svg" title="Hugging Face" width="45" height="45"/>&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hugging-face-the-ai-community-building-the-future-logo-shadow-tal-revivo.png" title="Hugging Face" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="45" height="45"/>&nbsp;
@@ -48,7 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" title="Anaconda" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" width="45" height="45"/>
 </p>
 
 ## Contact Me
