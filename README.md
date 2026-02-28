@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_lucene/apache_lucene-icon.svg" title="Apache Lucene" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/PandaScreaming/PandaScreaming/master/images/excel.svg" title="Microsoft Excel" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Microsoft Excel" width="45" height="45"/>
 </p>
 
 ### Full-Stack Development & Databases
