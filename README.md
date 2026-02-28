@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/interrogativ/interrogativ/master/assets/huggingface.svg" title="Hugging Face" width="45" height="45"/>&nbsp;
+  <img src="https://api.iconify.design/logos:hugging-face-icon.svg" title="Hugging Face" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="45" height="45"/>&nbsp;
