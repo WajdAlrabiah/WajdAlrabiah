@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" title="Hugging Face (LLMs)" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Gil-Gomes/Gil-Gomes/master/assets/huggingface.svg" title="Hugging Face" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="45" height="45"/>&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_lucene/apache_lucene-icon.svg" title="Apache Lucene" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft-excel/microsoft-excel-original.svg" title="Microsoft Excel" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/PandaScreaming/PandaScreaming/master/images/excel.svg" title="Microsoft Excel" width="45" height="45"/>
 </p>
 
 ### Full-Stack Development & Databases
