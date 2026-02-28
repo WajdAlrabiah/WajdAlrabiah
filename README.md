@@ -1,14 +1,21 @@
-# Hi there, I'm Wajd Alrabiah
+# <p align="center">Hi there, I'm Wajd Alrabiah 👋</p>
 
-## About Me
-- Artificial Intelligence fresh graduate from Princess Nourah Bint Abdulrahman University
-- Passionate about **Machine Learning, Deep learning, Generative Artificial Intelligence, Natural Language Processing, Computer Vision and Data Analytics**  
-- Interested in **AI applications, Generative Artificial Intelligence, Natural Language Processing, Computer Vision and everything about data**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20Engineer%20&%20Full-Stack%20Dev&fontSize=40&animation=fadeIn" />
+</p>
 
+## 💫 About Me
+- 🎓 **Artificial Intelligence** fresh graduate from Princess Nourah Bint Abdulrahman University.
+- 🤖 Passionate about **Machine Learning, Deep Learning, Generative AI, and NLP**.
+- 💻 Skilled in building end-to-end applications using **NestJS, Angular, and FastAPI**.
+- 📊 Expert in **Data Analytics, Visualization, and Data Quality**.
+- 🚀 Interested in **Adaptive AI Systems** and **Semantic Search Engines**.
 
-## Skills & Tools
+---
 
-### AI Engineering & Data Science
+## 🛠 Skills & Tools
+
+### 🤖 AI Engineering & Data Science
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45"/>&nbsp;
@@ -24,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Microsoft Excel" width="45" height="45"/>
 </p>
 
-### Full-Stack Development & Databases
+### 🌐 Full-Stack Development & Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="45" height="45"/>&nbsp;
@@ -40,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>
 </p>
 
-### Tools & DevOps
+### 🛠 Tools & DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="45" height="45"/>&nbsp;
@@ -48,10 +55,22 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" title="Anaconda" width="45" height="45"/>
 </p>
 
-## Contact Me
-- LinkedIn: www.linkedin.com/in/wajdalrabiah
-- X (Twitter): https://x.com/wajdalrabiah
-- Email: WajdAlrabiah@gmail.com
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wajdalrabiah&show_icons=true&theme=vision-glow&hide_border=true" alt="Wajd's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajdalrabiah&layout=compact&theme=vision-glow&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/wajdalrabiah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/wajdalrabiah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:WajdAlrabiah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
